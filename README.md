@@ -2,4 +2,4 @@
 
 ### Skils:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,postman,figma,xd,git,github,figma,xd,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,postman,git,github,figma,xd,vscode)](https://skillicons.dev)
