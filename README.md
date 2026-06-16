@@ -4,8 +4,8 @@
 const profile = {
   name: "Amin Moeini",
   birthDay: "2000 April 04",
-  university: "Rajaei Kashan",
   role: "Front-End Developer",
+  university: "Rajaei Kashan",
   focus: "Currently improving my skills in JavaScript",
   quote: "Do something that makes people's lives easier."
 };
