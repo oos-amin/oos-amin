@@ -6,6 +6,7 @@
 
 ### Social:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oos_amin)
 
-
+<a href="https://t.me/oos_amin">
+  <img src="https://github.com/oos-amin/oos-amin/blob/main/icons8_telegram_app_480px.png?raw=true" alt="telegram" width="52px"/>
+<a/>
