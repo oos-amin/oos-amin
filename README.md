@@ -24,7 +24,6 @@ I'm a Front-End Developer focused on building responsive and user-friendly web a
 ### Social
 
 <p align="left">
-    <a href="https://t.me/oos_amin" target="_blank" rel="noreferrer"><img src="https://github.com/oos-amin/oos-amin/blob/main/telegram.png?raw=true" width="32" height="32" /></a>
     <a href="https://www.instagram.com/amin_moeiin/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/amin-moeini-a11b71272/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
 </p>
