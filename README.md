@@ -7,7 +7,6 @@ const profile = {
   role: "Front-End Developer",
   university: "Rajaee Kashan",
   focus: "Currently improving my skills in JavaScript",
-  quote: "Do something that makes people's lives easier."
 };
 ```
 
