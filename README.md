@@ -3,13 +3,13 @@
 I'm a Front-End Developer focused on building responsive and user-friendly web applications.
 
 
-- 🌱 Currently improving my skills in JavaScript and front-end development.
+- 🌱 Currently improving my skills in JavaScript.
 
 - 💻 Interested in creating clean, maintainable, and accessible user interfaces.
 
 - 🚀 Working on personal projects to strengthen my problem-solving and development skills.
 
-- 📚 Always learning and improving one step at a time.
+- 📚 Always learning and improving.
   
 - ✉️ You can contact me at [amin47moeini@gmail.com](mailto:amin47moeini@gmail.com)
 
@@ -21,18 +21,9 @@ I'm a Front-End Developer focused on building responsive and user-friendly web a
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 </p>
 
-### Goals
+### Social
 
-* Become a professional Front-End Developer
-* Build real-world applications and gain industry experience
-
----
-
-
-
-### Social:
-
-
-<a href="https://t.me/oos_amin">
-  <img src="https://github.com/oos-amin/oos-amin/blob/main/icons8_telegram_app_480px.png?raw=true" alt="telegram" width="42" height="42"/>
-<a/>
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+</p>
