@@ -1,17 +1,13 @@
 # Hi there👋, My name is Amin Moeini
 
-I'm a Front-End Developer focused on building responsive and user-friendly web applications.
-
-
-- 🌱 Currently improving my skills in JavaScript.
-
-- 💻 Interested in creating clean, maintainable, and accessible user interfaces.
-
-- 🚀 Working on personal projects to strengthen my problem-solving and development skills.
-
-- 📚 Always learning and improving.
-  
-- ✉️ You can contact me at [amin47moeini@gmail.com](mailto:amin47moeini@gmail.com)
+```javascript
+const profile = {
+  name: "Amin Moeini",
+  role: "Front-End Developer",
+  focus: "Currently improving my skills in JavaScript",
+  quote: "Do something that makes people's lives easier."
+};
+```
 
 ### Skils
 
