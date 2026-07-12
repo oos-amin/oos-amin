@@ -4,7 +4,7 @@
 const profile = {
   name: "Amin Moeini",
   birthDay: "2000 April 04",
-  role: "Front-End Developer",
+  role: "Junior Front-End Developer",
   university: "Rajaee Kashan",
   focus: "Currently improving my skills in JavaScript",
 };
@@ -19,7 +19,7 @@ const profile = {
 ### Tools
 
   <a href="" target="_blank" rel="noreferrer" >
-    <img src="https://skillicons.dev/icons?i=vscode,figma,xd,postman,npm,git" width="243"/>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,xd,postman,npm,git" width="247"/>
   </a>
 
 ### Social
