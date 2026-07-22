@@ -13,7 +13,7 @@ const profile = {
 ### Skils
 
   <a href="" target="_blank" rel="noreferrer" >
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" width="160"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" width="160"/>
   </a>
 
 ### Tools
