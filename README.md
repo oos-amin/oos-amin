@@ -1,5 +1,5 @@
 ## Hi There👋, I'm Amin
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&width=435&lines=;Front+End+Developer;Always+learning...;+JavaScript+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&width=435&lines=Front+End+Developer;Always+learning...;+JavaScript+enthusiast" alt="Typing SVG" /></a>
 
 ```javascript
 const profile = {
