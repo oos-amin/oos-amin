@@ -20,7 +20,7 @@ const profile = {
 ### Tools
 
   <a href="" target="_blank" rel="noreferrer" >
-    <img src="https://skillicons.dev/icons?i=vscode,figma,xd,postman,npm,git" width="247"/>
+    <img src="https://skillicons.dev/icons?i=vscode,vite,figma,postman,npm,git" width="247"/>
   </a>
 
 ### Social
