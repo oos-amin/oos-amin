@@ -7,7 +7,7 @@ const profile = {
   birthDay: "2000 April 04",
   role: "Junior Front-End Developer",
   university: "Rajaee Kashan",
-  focus: "Currently Learning React",
+  focus: "Currently Learning React and Typescript",
 };
 ```
 
